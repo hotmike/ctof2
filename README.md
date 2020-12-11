@@ -1,2 +1,1 @@
-# temperature
-# ctof2
+#溫度轉換程式
